@@ -10,7 +10,7 @@ public class Arithmetic {
 	}
 	
 	public double sub(double x, double y) {
-		//Prepared Sub
+		//Prepared Subtraction
 		double z=0.0;
 		z=x-y;
 		return z;
